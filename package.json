@@ -1,0 +1,24 @@
+{
+  "name": "toconstant",
+  "version": "1.0.0",
+  "description": "change camelCase to CONST_VAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigran59/toConstant.git"
+  },
+  "keywords": [
+    "camelCase",
+    "to",
+    "CONST_VAR"
+  ],
+  "author": "Tigran Harutyunyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigran59/toConstant/issues"
+  },
+  "homepage": "https://github.com/tigran59/toConstant#readme"
+}
